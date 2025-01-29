@@ -38,3 +38,7 @@ Run the Python script to start the interactive analysis and follow the on_screen
 If desired, you can run multiple searches or exit by typing "no" when prompted.
 
 ENJOY THIS PROJECT!
+
+## Please feel free to contact me:
+
+LinkedIn: https://www.linkedin.com/in/attila-kormos-8a0ba9348/
